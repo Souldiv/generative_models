@@ -29,7 +29,7 @@ Trained using MSE loss as Reconstruction loss and KLDivergence loss as latent Lo
 with beta=0.7 to sway model towards reconstruction.
 
 on Unseen samples
-![Unseen Dataset](pictures/vae_1.png)
+![Unseen Dataset](pictures/vae_1_test.png)
 
 on trained sample
 ![seen dataset](pictures/vae_2.png)
@@ -38,7 +38,7 @@ Trained using BCE loss as Reconstruction loss
 with beta=3 to have model generalize better
 
 on Unseen samples
-![Unseen Dataset](pictures/vae_bce_3.png)
+![Unseen Dataset](pictures/vae_bce_3_test.png)
 
 on trained sample
 ![seen dataset](pictures/vae_bce_4.png)
