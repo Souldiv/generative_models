@@ -2,3 +2,5 @@ data/*
 data/
 .ipynb_checkpoints/*
 .ipynb_checkpoints/
+AutoEncoders/generated_data_vae/*
+AutoEncoders/
