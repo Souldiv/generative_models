@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Repository contains some PyTorch implementations of generator models, currently i have made implementations of Basic Convolutional AutoEncoder and Variational AutoEncoder.
+This Repository contains some PyTorch implementations of generative models, currently i have made implementations of Basic Convolutional AutoEncoder and Variational AutoEncoder.
 
 ## Anime Faces Dataset
 
@@ -58,3 +58,12 @@ on trained sample
 
 * GAN
 
+### References
+
++ I have mostly referred to Pytorch Examples for [VAE](https://github.com/pytorch/examples/tree/master/vae) 
+
++ and this Repository for [Conv-Autoencoder](https://github.com/L1aoXingyu/pytorch-beginner/blob/master/08-AutoEncoder/conv_autoencoder.py)
+
++ Amazing [blog](https://www.jeremyjordan.me/variational-autoencoders/) on VAE.
+
+This Project is made by me to learn how generative models work and if you have some insights that could help me learn better please feel free to create a pull request
